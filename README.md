@@ -1,4 +1,4 @@
-# Data-Analyst-Project-IBM
+# Data-Analytics-Project-IBM
 # Analysis of Superstore Dataset
 ## IBM Internship Project for Data Analytics
 
